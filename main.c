@@ -783,7 +783,7 @@ void tokenize(char* filename){
 }
 
 int main(){
-    tokenize("input1.txt");
+    tokenize("input.txt");
     // for (int i = 0; i < token_count; ++i)
     // {
     //     if(tokens[i]) printf("%s|", tokens[i]);
